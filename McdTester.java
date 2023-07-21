@@ -1,0 +1,64 @@
+class McdTester{
+public static void main(String typeOfFood[]){
+ String foodName = "paneer buger";
+double priceOfFood=Mcd.search(foodName);
+String foodName1 = "wrap";
+double priceOfFood1=Mcd.search(foodName1);
+System.out.println("the ordered food is "+ priceOfFood1);
+ String foodName2 = "chicken wrap";
+double priceOfFood2=Mcd.search(foodName2);
+System.out.println("the ordered food is "+ priceOfFood2);
+String foodName3 = "spicy wrap";
+double priceOfFood3=Mcd.search(foodName3);
+System.out.println("the ordered food is "+ priceOfFood3);
+ String foodName4 = "maharaja mac";
+double priceOfFood4=Mcd.search(foodName4);
+System.out.println("the ordered food is "+ priceOfFood4);
+ String foodName5= "cheese burger";
+double priceOfFood5=Mcd.search(foodName5);
+System.out.println("the ordered food is "+ priceOfFood5);
+String foodName6 = "non veg mac";
+double priceOfFood6=Mcd.search(foodName6);
+System.out.println("the ordered food is "+ priceOfFood6);
+String foodName7 = "combo meal";
+double priceOfFood7=Mcd.search(foodName7);
+System.out.println("the ordered food is "+ priceOfFood7);
+String foodName8= "wrap";
+double priceOfFood8=Mcd.search(foodName8);
+System.out.println("the ordered food is "+ priceOfFood8);
+String foodName9 = "non wrap meal";
+double priceOfFood9=Mcd.search(foodName9);
+System.out.println("the ordered food is "+ priceOfFood9);
+String foodName10 = "pizza puff";
+double priceOfFood10=Mcd.search(foodName10);
+System.out.println("the ordered food is "+ priceOfFood10);
+String foodName11 = "gourmet burger";
+double priceOfFood11=Mcd.search(foodName11);
+System.out.println("the ordered food is "+ priceOfFood11);
+String foodName12 = "coco cola";
+double priceOfFood12=Mcd.search(foodName12);
+System.out.println("the ordered food is "+ priceOfFood12);
+String foodName13= "premium buger";
+double priceOfFood13=Mcd.search(foodName13);
+System.out.println("the ordered food is "+ priceOfFood13);
+String foodName14 = "aloo burger";
+double priceOfFood14=Mcd.search(foodName14);
+System.out.println("the ordered food is "+ priceOfFood14);
+String foodName15 = "american burger";
+double priceOfFood15=Mcd.search(foodName15);
+System.out.println("the ordered food is "+ priceOfFood15);
+String foodName16 = "mexican burger";
+double priceOfFood16=Mcd.search(foodName16);
+System.out.println("the ordered food is "+ priceOfFood16);
+String foodName17 = "mango shake";
+double priceOfFood17=Mcd.search(foodName17);
+System.out.println("the ordered food is "+ priceOfFood17);
+String foodName18 = " fries";
+double priceOfFood18= Mcd.search(foodName18);
+System.out.println("the ordered food is "+ priceOfFood18);
+String foodName19 = "chesse fries";
+double priceOfFood19=Mcd.search(foodName19);
+System.out.println("the ordered food is "+ priceOfFood19);
+
+}
+}
